@@ -1,8 +1,10 @@
 # 496-People-Indonesian-Speech-Data-by-Mobile-Phone_Guiding
-https://www.datatang.ai/datasets/72
+
 
 ## Description
 Indonesia speech data (guiding) is collected from 496 Indonesian native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as in-car scene, smart home, speech assistant. 50 sentences for each speaker. The valid volumn is 10.5 hour. All texts are manual transcribed with high accuray.
+
+For more details, please refer to the link: https://bit.ly/3StAFOd
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -30,3 +32,6 @@ text, time point of speech data, 3 noise symbols, 5special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
