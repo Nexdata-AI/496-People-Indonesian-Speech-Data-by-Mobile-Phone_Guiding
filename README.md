@@ -4,7 +4,7 @@
 ## Description
 Indonesia speech data (guiding) is collected from 496 Indonesian native speakers and is recorded in quiet environment. The recording is rich in content, covering multiple categories such as in-car scene, smart home, speech assistant. 50 sentences for each speaker. The valid volumn is 10.5 hour. All texts are manual transcribed with high accuray.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/72?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/72?source=Github
 
 
 ## Format
